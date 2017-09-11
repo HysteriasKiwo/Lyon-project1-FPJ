@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Bootstrap 3 Fullscreen Background Carousel with Fade effect</title>
+    <title>Bug Burger</title>
     <script src="https://s.codepen.io/assets/libs/modernizr.js" type="text/javascript"></script>
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
@@ -20,11 +20,11 @@
 </head>
 
 <body>
-<!-- Inspired by https://codepen.io/transportedman/pen/NPWRGq -->
+
 
 <div class="carousel slide carousel-fade" data-ride="carousel">
 
-    <!-- Wrapper for slides -->
+
     <div class="carousel-inner" role="listbox">
         <div class="item active">
         </div>
@@ -35,7 +35,7 @@
     </div>
 </div>
 
-<!-- Remeber to put all the content you want on top of the slider below the slider code -->
+
 
 <div class="title">
     BUG BURGER
@@ -102,37 +102,37 @@
 
 
                         </li>-->
-            <li class="active">
+            <li<?php if ($page == "home") { echo ' class="active"'; } ?>>
                 <a href="?page=home">
                     <i class="glyphicon glyphicon-home"></i>
                     Home
                 </a>
             </li>
-            <li>
+            <li<?php if ($page == "carte") { echo ' class="active"'; } ?>>
                 <a href="?page=carte">
                     <i class="glyphicon glyphicon-briefcase"></i>
                     La Carte
                 </a>
             </li>
-            <li>
+            <li<?php if ($page == "resto") { echo ' class="active"'; } ?>>
                 <a href="?page=resto">
                     <i class="glyphicon glyphicon-cutlery"></i>
                     Restaurants
                 </a>
             </li>
-            <li>
+            <li<?php if ($page == "team") { echo ' class="active"'; } ?>>
                 <a href="?page=team">
                     <i class="glyphicon glyphicon-link"></i>
                     Team
                 </a>
             </li>
-            <li>
+            <li<?php if ($page == "FAQ") { echo ' class="active"'; } ?>>
                 <a href="?page=FAQ">
                     <i class="glyphicon glyphicon-paperclip"></i>
                     FAQ
                 </a>
             </li>
-            <li>
+            <li<?php if ($page == "contact") { echo ' class="active"'; } ?>>
                 <a href="?page=contact">
                     <i class="glyphicon glyphicon-send"></i>
                     Contact
@@ -143,11 +143,10 @@
 
 </div>
 
-<div class="footer">
+<footer class="footer container">
 
 
-
-</div>
+</footer>
 
 
 <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
