@@ -1,9 +1,5 @@
 /*
-    DEMO STYLE
-*/
-@import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
 
-/*
 Color 1 #A5C180 VERT
 Color 2 #CDC5A6 BEIGE
 Color 3 #695246 Marron
@@ -281,7 +277,7 @@ a.article, a.article:hover {
 }
 
 .container {
-    background-color: rgba(55, 55, 55, 0.8);
+    background-color: rgba(55, 55, 55, 0.98);
     min-height: 600px;
     padding-bottom: 50px;
 }
@@ -295,9 +291,9 @@ a.article, a.article:hover {
 }
 
 .footer {
-    background: rgba(105, 82, 70, 0.8);
+    background: rgba(105, 82, 70, 0.98);
     min-height: 150px;
-    margin-top: 50px;
+    margin-top: 20px;
 }
 
 .carousel-fade .carousel-inner .item {
