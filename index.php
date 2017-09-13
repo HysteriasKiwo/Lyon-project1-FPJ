@@ -9,8 +9,7 @@
 
     <link rel='stylesheet prefetch' href='http://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css'>
 
-    <link href="https://fonts.googleapis.com/css?family=Amatica+SC" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:300" rel="stylesheet">
+
     <link rel="stylesheet" href="css/style.css">
     <style>
 
