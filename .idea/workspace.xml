@@ -2,19 +2,177 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbfedd8d-263e-4bd7-8071-ec24fc72edb0" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Book/1101461_4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Book/1319375-000-sapa980323348440-610x315.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Book/900882-grasshoppers-crickets-and-giant-scorpions-on-the-menu-to-celebrate-85th-anniversary-of-rentokil.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Book/Fuzzy-Math-How-to-read-a-wireframe-FR.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Book/Insect-street-food-China_©-Anastasiia-Maltseva-Dreamstime.com_.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Book/bee-recipe-from-The-Eat-A-Bug-Cookbook-Revised-by-David-George-Gordon-Ten-Speed-Press-2013.-Photo-Credit-Chugrad-McAndrews..jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Book/bug160-300x220.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Book/bugburger_recept2-638x368.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Book/giant-burger.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Book/grasshopper-tacos-oyamel.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Book/insect_food10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Book/rentokil-pestaurant-34.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Book/shutterstock_199578155-640x427.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/Book/1101461_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/Book/1319375-000-sapa980323348440-610x315.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/Book/900882-grasshoppers-crickets-and-giant-scorpions-on-the-menu-to-celebrate-85th-anniversary-of-rentokil.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/Book/Fuzzy-Math-How-to-read-a-wireframe-FR.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/Book/Insect-street-food-China_©-Anastasiia-Maltseva-Dreamstime.com_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/Book/bee-recipe-from-The-Eat-A-Bug-Cookbook-Revised-by-David-George-Gordon-Ten-Speed-Press-2013.-Photo-Credit-Chugrad-McAndrews..jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/Book/bug160-300x220.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/Book/bugburger_recept2-638x368.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/Book/giant-burger.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/Book/grasshopper-tacos-oyamel.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/Book/insect_food10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/Book/rentokil-pestaurant-34.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/Book/shutterstock_199578155-640x427.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/recup fantasia/cartes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/recup fantasia/menus.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/recup fantasia/team.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/recup pierre/[WIP]FAQ.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/slide/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/slide/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/slide/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/slide/js/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/slide/license.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/css/animate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/css/bootstrap-datetimepicker.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/css/flexslider.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/css/icomoon.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/css/simple-line-icons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/fonts/bootstrap/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/fonts/bootstrap/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/fonts/bootstrap/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/fonts/bootstrap/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/fonts/bootstrap/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/fonts/icomoon/icomoon.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/fonts/icomoon/icomoon.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/fonts/icomoon/icomoon.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/fonts/icomoon/icomoon.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/fonts/simple-line-icons/Simple-Line-Icons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/fonts/simple-line-icons/Simple-Line-Icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/fonts/simple-line-icons/Simple-Line-Icons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/fonts/simple-line-icons/Simple-Line-Icons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/fonts/simple-line-icons/Simple-Line-Icons.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/images/0103-served-plate_128.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/images/0103-served-plate_64.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/images/0203-coffee-love.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/images/0301-pina-colada.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/images/0301-pina-colada_64.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/images/0302-steak.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/images/0401-vegan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/images/0402-chef.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/images/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/images/res_img_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/images/res_img_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/images/res_img_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/images/res_img_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/images/res_img_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/images/res_img_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/images/res_img_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/images/res_img_8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/images/slide_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/images/slide_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/images/slide_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/images/type-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/images/type-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/images/type-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/images/type-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/images/wood_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/js/bootstrap-datetimepicker.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/js/jquery.easing.1.3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/js/jquery.flexslider-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/js/jquery.stellar.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/js/jquery.waypoints.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/js/modernizr-2.6.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/js/moment.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/js/respond.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/_bootstrap-compass.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/_bootstrap-mincer.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/_bootstrap-sprockets.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/blue.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/_alerts.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/_badges.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/_breadcrumbs.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/_button-groups.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/_buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/_carousel.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/_close.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/_code.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/_component-animations.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/_dropdowns.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/_forms.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/_glyphicons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/_grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/_input-groups.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/_jumbotron.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/_labels.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/_list-group.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/_media.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/_modals.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/_navbar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/_navs.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/_normalize.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/_pager.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/_pagination.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/_panels.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/_popovers.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/_print.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/_progress-bars.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/_responsive-embed.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/_responsive-utilities.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/_scaffolding.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/_tables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/_theme.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/_thumbnails.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/_tooltip.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/_type.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/_utilities.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/_wells.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/mixins/_alerts.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/mixins/_background-variant.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/mixins/_border-radius.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/mixins/_buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/mixins/_center-block.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/mixins/_clearfix.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/mixins/_forms.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/mixins/_gradients.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/mixins/_grid-framework.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/mixins/_grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/mixins/_hide-text.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/mixins/_image.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/mixins/_labels.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/mixins/_list-group.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/mixins/_nav-divider.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/mixins/_nav-vertical-align.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/mixins/_opacity.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/mixins/_pagination.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/mixins/_panels.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/mixins/_progress-bar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/mixins/_reset-filter.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/mixins/_reset-text.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/mixins/_resize.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/mixins/_responsive-visibility.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/mixins/_size.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/mixins/_tab-focus.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/mixins/_table-row.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/mixins/_text-emphasis.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/mixins/_text-overflow.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/bootstrap/mixins/_vendor-prefixes.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/style.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/style2.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/style3.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/Foode/sass/style4.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/bootstrap-sidebar/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/bootstrap-sidebar/index2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/bootstrap-sidebar/index3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/bootstrap-sidebar/index4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/bootstrap-sidebar/index5.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/bootstrap-sidebar/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/bootstrap-sidebar/style2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/bootstrap-sidebar/style3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/bootstrap-sidebar/style4.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bordel/test/bootstrap-sidebar/style5.css" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,18 +186,68 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="134" column="14" lean-forward="true" selection-start-line="134" selection-start-column="14" selection-end-line="134" selection-end-column="14" />
+            <state relative-caret-position="-34">
+              <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FAQ.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FAQ.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" column="211" lean-forward="false" selection-start-line="30" selection-start-column="211" selection-end-line="30" selection-end-column="211" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contact.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="resto.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resto.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="738">
+              <caret line="103" column="0" lean-forward="false" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1570">
-              <caret line="294" column="1" lean-forward="true" selection-start-line="294" selection-start-column="1" selection-end-line="294" selection-end-column="1" />
+            <state relative-caret-position="276">
+              <caret line="334" column="6" lean-forward="false" selection-start-line="334" selection-start-column="1" selection-end-line="334" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -129,6 +337,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -140,7 +349,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -188,28 +396,38 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27335000" />
+    <option name="totallyTimeSpent" value="27520000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="1076" width="1920" height="1027" extended-state="6" />
+    <frame x="0" y="-4" width="1920" height="1027" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12135417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.122470714" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.759116" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12135417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,6 +441,62 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/FAQ.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="211" lean-forward="false" selection-start-line="30" selection-start-column="211" selection-end-line="30" selection-end-column="211" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="334" column="6" lean-forward="false" selection-start-line="334" selection-start-column="1" selection-end-line="334" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="103" column="0" lean-forward="true" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -327,11 +601,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Book/900882-grasshoppers-crickets-and-giant-scorpions-on-the-menu-to-celebrate-85th-anniversary-of-rentokil.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Book/900882-grasshoppers-crickets-and-giant-scorpions-on-the-menu-to-celebrate-85th-anniversary-of-rentokil.jpg" />
     <entry file="file://$PROJECT_DIR$/carte" />
     <entry file="file://$PROJECT_DIR$/contact" />
     <entry file="file://$PROJECT_DIR$/FAQ" />
@@ -340,32 +610,13 @@
     <entry file="file://$PROJECT_DIR$/team" />
     <entry file="file://$PROJECT_DIR$/index.html" />
     <entry file="file://$PROJECT_DIR$/Inspi/index.html" />
-    <entry file="file://$PROJECT_DIR$/test/bootstrap-sidebar/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/bootstrap-sidebar/style4.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3613">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="258" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/bootstrap-sidebar/index4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="129" column="0" lean-forward="false" selection-start-line="129" selection-start-column="0" selection-end-line="139" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test/bootstrap-sidebar/index.html" />
+    <entry file="file://$PROJECT_DIR$/test/bootstrap-sidebar/style4.css" />
+    <entry file="file://$PROJECT_DIR$/test/bootstrap-sidebar/index4.html" />
     <entry file="file://$PROJECT_DIR$/css/animate.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-918">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -395,8 +646,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -409,26 +660,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/recup fantasia/menus.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1462">
-          <caret line="79" column="0" lean-forward="true" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recup fantasia/team.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/recup fantasia/menus.html" />
+    <entry file="file://$PROJECT_DIR$/recup fantasia/team.html" />
     <entry file="file://$PROJECT_DIR$/resto.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="133" column="412" lean-forward="false" selection-start-line="133" selection-start-column="412" selection-end-line="133" selection-end-column="412" />
+        <state relative-caret-position="738">
+          <caret line="103" column="0" lean-forward="false" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -441,25 +678,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/recup fantasia/cartes.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="15" selection-end-column="91" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recup pierre/[WIP]FAQ.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" column="10" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="37" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/recup fantasia/cartes.html" />
+    <entry file="file://$PROJECT_DIR$/recup pierre/[WIP]FAQ.html" />
     <entry file="file://$PROJECT_DIR$/FAQ.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
+        <state relative-caret-position="510">
           <caret line="30" column="211" lean-forward="false" selection-start-line="30" selection-start-column="211" selection-end-line="30" selection-end-column="211" />
           <folding />
         </state>
@@ -469,7 +692,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="67" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -477,7 +699,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -491,8 +712,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="134" column="14" lean-forward="true" selection-start-line="134" selection-start-column="14" selection-end-line="134" selection-end-column="14" />
+        <state relative-caret-position="-34">
+          <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
           <folding />
         </state>
       </provider>
@@ -501,14 +722,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="44" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="81" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1570">
-          <caret line="294" column="1" lean-forward="true" selection-start-line="294" selection-start-column="1" selection-end-line="294" selection-end-column="1" />
+        <state relative-caret-position="276">
+          <caret line="334" column="6" lean-forward="false" selection-start-line="334" selection-start-column="1" selection-end-line="334" selection-end-column="6" />
           <folding />
         </state>
       </provider>
