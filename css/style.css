@@ -1,4 +1,8 @@
+
+@import url('https://fonts.googleapis.com/css?family=Amatica+SC|Josefin+Sans');
+
 /*
+
 
 Color 1 #A5C180 VERT
 Color 2 #CDC5A6 BEIGE
@@ -18,11 +22,22 @@ body {
     font-family: 'Amatica SC', cursive;
     background: #a5c180;
     color: #cdc5ab;
+
+}
+h1 {
+    font-size: 2.9em;
+    Font-Weight: Bold;
+
+}
+h2 {
+    font-size: 2.5em;
+    Font-Weight: Bold;
+
 }
 
 p {
-    font-family: 'Poppins', sans-serif;
-    font-size: 1.1em;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.5em;
     font-weight: 300;
     line-height: 1.7em;
     color: #cdc5ab;
@@ -169,7 +184,6 @@ a[aria-expanded="false"]::before, a[aria-expanded="true"]::before {
     display: block;
     position: absolute;
     right: 20px;
-    font-family: 'Glyphicons Halflings';
     font-size: 0.6em;
 }
 
