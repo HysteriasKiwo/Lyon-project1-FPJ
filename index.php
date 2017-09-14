@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Bug Burger</title>
+    <title>BugBurger</title>
     <script src="https://s.codepen.io/assets/libs/modernizr.js" type="text/javascript"></script>
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
@@ -11,10 +11,6 @@
 
 
     <link rel="stylesheet" href="css/style.css">
-    <style>
-
-    </style>
-
 
 </head>
 
@@ -31,13 +27,19 @@
         </div>
         <div class="item">
         </div>
+        <div class="item">
+        </div>
+        <div class="item">
+        </div>
+        <div class="item">
+        </div>
     </div>
 </div>
 
 
 
 <div class="title">
-    BUG BURGER
+    BugBurger
 </div>
 
 <div class="container">
@@ -141,21 +143,13 @@
     </nav>
 
 </div>
-
 <footer class="footer container">
-
-
 </footer>
-
-
 <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
 <script src='http://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js'></script>
 
 <script>
-
     $('.carousel').carousel();
-
-
 </script>
 
 </body>
