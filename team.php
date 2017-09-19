@@ -3,7 +3,7 @@
 <div class="row">
 
     <div class="col-md-8">
-        <h1>CEO</h1>
+        <h1>Bug'Papa</h1>
         <h2>Un concept, une passion</h2>
         <p class="text">
             Suite à ces années passées dans de multiples pays d'Asie, Damien revient en France avec la
@@ -16,8 +16,8 @@
         </p>
     </div>
     <div class="col-md-4">
-        <div class="troll_damien">
-            <img class="media-object img-thumbnail" src="img/damien.jpg" alt="Le grand Manitou">
+        <div class="damien">
+           <div class="troll_damien"></div>
         </div>
 
     </div>
@@ -28,7 +28,9 @@
 <hr>
 <div class="row">
     <div class="col-md-4">
-        <img class="media-object img-thumbnail" src="img/laurent.jpg" alt="Cuisinier">
+        <div class="laurent">
+            <div class="troll_laurent"></div>
+        </div>
     </div>
     <div class="col-md-8">
         <h1>Cuisinier en Chef</h1>
@@ -60,6 +62,9 @@
             de toutes nos petites bêtes adorées.
         </p>
     </div>
-    <div class="col-md-4"><img class="media-object img-thumbnail" src="img/julien.jpg" alt="Entomoculteur">
+    <div class="col-md-4">
+        <div class="julien">
+            <div class="troll_julien"></div>
+        </div>
     </div>
 </div>
