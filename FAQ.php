@@ -12,7 +12,7 @@
 
                 <h3 class="panel-title">Quelles informations est-ce que j'obtiens sur vos produits ?</h3>
 
-                Notre nouvelle vue d’ensemble des produits est encore plus détaillée : nous y avons ajouté de nombreuses informations intéressantes sur les ingrédients et la préparation de nos produits. Vous pouvez savoir ici d’où proviennent nos ingrédients et à quelle température nous grillons votre burger, mais également des informations sur les valeurs nutritionnelles et les allergènes.
+                <!--Notre nouvelle vue d’ensemble des produits est encore plus détaillée : nous y avons ajouté de nombreuses informations intéressantes sur les ingrédients et la préparation de nos produits. Vous pouvez savoir ici d’où proviennent nos ingrédients et à quelle température nous grillons votre burger, mais également des informations sur les valeurs nutritionnelles et les allergènes.
             Peut-on manger des insectes trouvés dans les jardins ou les forêts ?Comme pour les végétaux et les champignons, toutes les espèces d’insectes ne sont pas comestibles. Hormis pour les spécialistes des insectes, il n’est donc pas conseillé de récolter soi-même des insectes à des fins alimentaires. De plus, les insectes collectés dans la nature peuvent avoir été en contact avec des pesticides ou autres composés chimiques.
 
             Est-ce que les végétariens peuvent manger des insectes ?La consommation d’insectes semble être proche des motivations des végétariens, cependant les différents régimes végétariens ne prévoient pas de consommation d’insectes pour le moment.
@@ -31,3 +31,4 @@
             Puis-je en faire manger à mes enfants ?Les enfants peuvent aussi déguster des insectes comestibles. Les insectes contiennent de nombreux éléments indispensables à la croissance et bons pour la santé.
 
 
+-->

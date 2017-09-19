@@ -4,7 +4,7 @@
 <div class="row">
 
     <div class="col-md-8">
-        <h1>LE BugBuger</h1>
+        <h1>LE BugBurger</h1>
 
         <h2>Notre champion toutes catégories</h2>
 
