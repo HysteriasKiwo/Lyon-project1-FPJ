@@ -6,7 +6,7 @@
 
     <div class="col-md-12">
         <iframe src="https://www.google.com/maps/d/embed?mid=1Gf_NNWZCIkMtUQYRDBuZB31jyU4" width="100%"
-                height="480"></iframe>
+                height="480" class="animated fadeIn"></iframe>
     </div>
 
 </div>

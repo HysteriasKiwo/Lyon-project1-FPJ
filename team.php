@@ -1,135 +1,65 @@
-    <h1>Notre team</h1>
+<h1>Notre team</h1>
 
-    <hr>
+<hr>
+<div class="row">
 
-    <div class="row">
-        <div class="col-xs-12">
-            <div class="media">
+    <div class="col-md-8">
+        <h1>CEO</h1>
 
-                <div class="row">
-                    <div class="col-xs-3">
-                        <div class="media-left">
-                            <img class="media-object img-thumbnail" src="http://via.placeholder.com/200x200" alt="...">
-                        </div>
-                    </div>
+        <h2>Un concept, une passion</h2>
 
-                    <div class="col-xs-9">
-                        <div class="media-body">
-                            <h2 class="media-heading">CEO</h2>
-                            <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non
-                                risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed,
-                                dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue,
-                                euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non
-                                fermentum diam nisl sit amet erat.</p>
-                        </div>
-                    </div>
-                </div>
+        <p class="text">
+            Suite a ces années passé dans de multiple pays d'Asie, Damien reviens en France avec la
+            ferme intention de faire manger des insectes au Francais. Après avoir ecumer pendant de long mois de
+            multiple societé de Fast Food bien connu ( Le grand M et le petit Q )et avoir essuyé de multiple
+            refus, il décida de créer lui même son restaurant pour dévelloper cette idée. Il ouvra donc le premier Bug
+            Burger a Lyon après 2 ans d'effort acharné
 
-                <hr>
-
-                <div class="row">
-                    <div class="col-xs-9">
-                        <div class="media-body">
-                            <h2 class="media-heading">CTO</h2>
-                            <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non
-                                risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed,
-                                dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue,
-                                euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non
-                                fermentum diam nisl sit amet erat.</p>
-                        </div>
-                    </div>
-
-                    <div class="col-xs-3">
-                        <div class="media-right pull-right">
-                            <img class="media-object img-thumbnail" src="http://via.placeholder.com/200x200" alt="...">
-                        </div>
-                    </div>
-                </div>
-
-                <hr>
-
-                <div class="row">
-                    <div class="col-xs-3">
-                        <div class="media-left">
-                            <img class="media-object img-thumbnail" src="http://via.placeholder.com/200x200" alt="...">
-                        </div>
-                    </div>
-
-                    <div class="col-xs-9">
-                        <div class="media-body">
-                            <h2 class="media-heading">MANAGER</h2>
-                            <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non
-                                risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed,
-                                dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue,
-                                euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non
-                                fermentum diam nisl sit amet erat.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <hr>
-
-                <div class="row">
-                    <div class="col-xs-9">
-                        <div class="media-body">
-                            <h2 class="media-heading">ELEVEURS</h2>
-                            <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non
-                                risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed,
-                                dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue,
-                                euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non
-                                fermentum diam nisl sit amet erat.</p>
-                        </div>
-                    </div>
-
-                    <div class="col-xs-3">
-                        <div class="media-right pull-right">
-                            <img class="media-object img-thumbnail" src="http://via.placeholder.com/200x200" alt="...">
-                        </div>
-                    </div>
-                </div>
-
-                <hr>
-
-                <div class="row">
-                    <div class="col-xs-3">
-                        <div class="media-left">
-                            <img class="media-object img-thumbnail" src="http://via.placeholder.com/200x200" alt="...">
-                        </div>
-                    </div>
-
-                    <div class="col-xs-9">
-                        <div class="media-body">
-                            <h2 class="media-heading">CUISINIERS</h2>
-                            <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non
-                                risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed,
-                                dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue,
-                                euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non
-                                fermentum diam nisl sit amet erat.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <hr>
-
-                <div class="row">
-                    <div class="col-xs-9">
-                        <div class="media-body">
-                            <h2 class="media-heading">SERVEURS</h2>
-                            <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non
-                                risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed,
-                                dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue,
-                                euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non
-                                fermentum diam nisl sit amet erat.</p>
-                        </div>
-                    </div>
-
-                    <div class="col-xs-3">
-                        <div class="media-right pull-right">
-                            <img class="media-object img-thumbnail" src="http://via.placeholder.com/200x200" alt="...">
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
+        </p>
     </div>
+    <div class="col-md-4"><img class="media-object img-thumbnail" src="img/damien.jpg" alt="CEO">
+
+    </div>
+</div>
+<hr>
+<div class="row">
+    <div class="col-md-4">
+        <img class="media-object img-thumbnail" src="img/laurent.jpg" alt="Cuisinier">
+
+    </div>
+    <div class="col-md-8">
+        <h1>Cuisinier en Chef</h1>
+
+        <h2>De la créativité a l'état brute !</h2>
+
+        <p class="text">
+            "Les Insectes je les evitaient mais depuis la rencontre avec Damien je suis devenu passionné de
+            ces pettie bètes" Tel sont les mots de Laurent notre chef cuisinier qui depuis le premier restaurant de Lyon
+            imagine, concoit, et test les futures plats de notre chaine. Si nos produit on un gout si particulier c'est
+            grace a lui et l'experience qu'il a pu acumulé pendants tout ces années dans les plus grand palace
+            francais</p>
+    </div>
+
+</div>
+<hr>
+<div class="row">
+
+    <div class="col-md-8">
+        <h1>Enthomocul quoi ?</h1>
+
+        <h2>Les petites betes c'est lui</h2>
+
+        <p class="text">
+            Depuis toujour Julien est passionné par les insectes, c'est donc tout naturellement qu'il c'est orienté vers
+            une Licence de Biologie des Organismes puis vers Master 2 Biologie des Organismes, des Populations et des
+            Ecosystèmes. Et un jour au détoure d'un salon dédier aux insectes il rencontre Damien et son projet fou, dès
+            lors ils ne se sont plus quitté et depuis le premier jour de Bug Burger c'est lui qui s'occupe et prend soin
+            de tout nos petite bete adoré
+
+        </p>
+    </div>
+    <div class="col-md-4"><img class="media-object img-thumbnail" src="img/julien.jpg" alt="Entomoculteur">
+    </div>
+</div>
+<hr>
+   
