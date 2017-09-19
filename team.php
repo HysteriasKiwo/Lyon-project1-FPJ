@@ -9,11 +9,11 @@
         <h2>Un concept, une passion</h2>
 
         <p class="text">
-            Suite a ces années passé dans de multiple pays d'Asie, Damien reviens en France avec la
-            ferme intention de faire manger des insectes au Francais. Après avoir ecumer pendant de long mois de
-            multiple societé de Fast Food bien connu ( Le grand M et le petit Q )et avoir essuyé de multiple
-            refus, il décida de créer lui même son restaurant pour dévelloper cette idée. Il ouvra donc le premier Bug
-            Burger a Lyon après 2 ans d'effort acharné
+            Suite à ces années passées dans de multiples pays d'Asie, Damien revient en France avec la
+            ferme intention de faire manger des insectes aux Francais. Après avoir écumé de
+            nombreuses societés de Fast Food bien connu (Le grand M et le petit Q) pendant de long mois, et avoir essuyé de multiples
+            refus, il décida de créer sa propre chaîne de restaurants pour développer cette idée. C'est alors qu'il a ouvert le premier Bug
+            Burger à Lyon après 2 ans d'efforts acharnés.
 
         </p>
     </div>
@@ -30,14 +30,14 @@
     <div class="col-md-8">
         <h1>Cuisinier en Chef</h1>
 
-        <h2>De la créativité a l'état brute !</h2>
+        <h2>De la créativité a l'état brut !</h2>
 
         <p class="text">
-            "Les Insectes je les evitaient mais depuis la rencontre avec Damien je suis devenu passionné de
-            ces pettie bètes" Tel sont les mots de Laurent notre chef cuisinier qui depuis le premier restaurant de Lyon
-            imagine, concoit, et test les futures plats de notre chaine. Si nos produit on un gout si particulier c'est
-            grace a lui et l'experience qu'il a pu acumulé pendants tout ces années dans les plus grand palace
-            francais</p>
+            "Les insectes, je les évitais, mais depuis que j'ai rencontré Damien, je me suis trouvé une passion pour
+            ces petites bêtes", tels sont les mots prononcés par Laurent, notre chef cuisinier qui depuis le tout premier restaurant
+            imagine, conçoit et critique les futurs plats de notre chaîne. Si nos produit ont un goût si particulier, c'est
+            grâce à l'experience qu'il a accumulé durant toutes ces années dans les plus grands palaces
+            français.</p>
     </div>
 
 </div>
@@ -47,15 +47,14 @@
     <div class="col-md-8">
         <h1>Enthomocul quoi ?</h1>
 
-        <h2>Les petites betes c'est lui</h2>
+        <h2>Les petites bêtes, c'est lui</h2>
 
         <p class="text">
-            Depuis toujour Julien est passionné par les insectes, c'est donc tout naturellement qu'il c'est orienté vers
-            une Licence de Biologie des Organismes puis vers Master 2 Biologie des Organismes, des Populations et des
-            Ecosystèmes. Et un jour au détoure d'un salon dédier aux insectes il rencontre Damien et son projet fou, dès
-            lors ils ne se sont plus quitté et depuis le premier jour de Bug Burger c'est lui qui s'occupe et prend soin
-            de tout nos petite bete adoré
-
+            Depuis toujours, Julien affectionne les insectes, c'est donc tout naturellement qu'il c'est orienté vers
+            une Licence de Biologie des Organismes, puis vers un Master 2 Populations Microscopiques et
+            Écosystèmes. Puis un jour, au détour d'un salon dédié aux insectes, il rencontre Damien et son projet fou, dès
+            lors ils ne se sont plus quittés et depuis le premier jour de Bug Burger, c'est lui qui s'occupe et prend soin
+            de toutes nos petites bêtes adorées.
         </p>
     </div>
     <div class="col-md-4"><img class="media-object img-thumbnail" src="img/julien.jpg" alt="Entomoculteur">
