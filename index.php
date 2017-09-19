@@ -129,6 +129,9 @@
                 case 'resto':
                     include("resto.php");
                     break;
+                case 'mentions':
+                    include("mentions.php");
+                    break;
             }
             ?>
         </div>
@@ -139,6 +142,7 @@
 <div class="container">
     <footer>
         <div class="footer">
+            <a href="?page=mentions">Mentions légale</a>
         </div>
     </footer>
 

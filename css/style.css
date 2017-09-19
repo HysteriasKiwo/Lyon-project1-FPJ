@@ -80,9 +80,6 @@ i, span {
      transition: opacity 25s ease-in-out;
      -moz-transition: opacity 25s ease-in-out;
      -webkit-transition: opacity 25s ease-in-out;
-
-
-
 }
 
 .body:hover {
@@ -94,7 +91,16 @@ i, span {
     transition: opacity .5s ease-in-out;
     -moz-transition: opacity .5s ease-in-out;
     -webkit-transition: opacity .5s ease-in-out;
-
+}
+.encadre {
+    background:rgba(163,133,117,1);
+    color: rgb(48,48,48);
+    font-size: 1.5em;
+    font-family: 'Josefin Sans', sans-serif;
+    padding:10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
 
 }
 
