@@ -92,7 +92,7 @@
                 echo ' class="active"';
             } ?>>
                 <a href="?page=contact">
-                    <i class="glyphicon glyphicon-send"></i>
+                    <i class="glyphicon glyphicon-envelope"></i>
                     Contact
                 </a>
             </li>
@@ -142,7 +142,8 @@
 <div class="container">
     <footer>
         <div class="footer">
-            <a href="?page=mentions">Mentions légale</a>
+            <?php include "footer.php"; ?>
+
         </div>
     </footer>
 
