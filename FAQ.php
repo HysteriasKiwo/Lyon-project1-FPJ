@@ -1,6 +1,6 @@
 
 <h1>QUESTIONS FRÉQUENTES</h1>
-<h3>Nous répondons ici aux questions les plus fréquemment posées sur nos produits et tout autour de notre site web. Peut-être que vous trouverez déjà une réponse à vos questions.</h3><br />
+<h3 class="faqtitre">Nous répondons ici aux questions les plus fréquemment posées sur nos produits et tout autour de notre site web. Peut-être que vous trouverez déjà une réponse à vos questions.</h3><br />
 
 
 <h2>Quelles sont les nouveautés sur notre nouveau site web BUG BURGER® ?</h2>

@@ -4,11 +4,11 @@
 <p>En vertu de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, il est précisé aux utilisateurs du site <a href="http://www.bugburger.com/">www.bugburger.com</a> l'identité des différents intervenants dans le cadre de sa réalisation et de son suivi :</p>
 <p>
 <div class="encadre">
-    <strong>Propriétaire</strong> : Bug Burger –  – 17 Rue de la Wild Code School<br />
-    <strong>Créateur</strong>  : <a href="www.example.com">Bug'Mama</a><br />
+    <strong>Propriétaire</strong> : Bug Burger – 17, Rue de la Wild Code School<br />
+    <strong>Créateur</strong>  : <a href="www.bugmama.com">Bug'Mama</a><br />
     <strong>Responsable publication</strong> : Bug'Papa – papa@bugburger.com<br />
     <strong>Webmaster</strong> : Bug'Papa – papa@bugburger.com<br />
-    <strong>Hébergeur</strong> : loclahost – 17 Rue de la Wild Code School<br />
+    <strong>Hébergeur</strong> : Localhost – 17, Rue de la Wild Code School<br />
 </div>
 
 

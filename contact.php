@@ -11,13 +11,13 @@
                     <input type="text" class="form-control" name="name" id="name" placeholder="Jean...">
                 </div>
 
-                <label for="email">Votre email</label>
+                <label for="email">Votre email :</label>
                 <div class="input-group">
                     <div class="input-group-addon"><i class="glyphicon glyphicon-envelope"></i></div>
                     <input type="text" class="form-control" name="email" id="email" placeholder="bug@burger.fr...">
                 </div>
 
-                <label for="tel">Votre telephone</label>
+                <label for="tel">Votre téléphone :</label>
                 <div class="input-group">
                     <div class="input-group-addon"><i class="glyphicon glyphicon-phone"></i></div>
                     <input type="text" class="form-control" name="tel" id="tel" placeholder="06...">
@@ -34,7 +34,7 @@
     </div>
     <div class="row">
         <div class="col-md-12">
-            <button type="submit" class="btn btn-primary">Submit</button>
+            <button type="submit" class="btn btn-primary">Envoyer</button>
         </div>
 
     </div>
