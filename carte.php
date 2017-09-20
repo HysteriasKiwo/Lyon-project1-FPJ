@@ -50,7 +50,8 @@
 </div>
 <hr>
 <div class="row">
-    <div class="col-md-4"><img class="media-object img-thumbnail" src="img/plat3.jpg" alt="...">
+    <div class="col-md-4 middle">
+        <img class="media-object img-thumbnail" src="img/plat3.jpg" alt="...">
     </div>
     <div class="col-md-8">
         <h1>Tacos de Sauterelles</h1>
@@ -58,7 +59,7 @@
         <h2>La fusion entre le Mexique et la France</h2>
 
         <p class="text">Des épices provenant directement de <a href="https://fr.wikipedia.org/wiki/Popocatepetl"
-                                                               target="_blank">Popocatepetl</a>, une grosse poignée de
+                                                               target="_blank" class="lien">Popocatepetl</a>, une grosse poignée de
             nos sauterelles finement selectionnées par Julien notre entomoculteur, et des légumes exquis
             détonants de saveurs composent le plus torride des Tacos.
         </p>
