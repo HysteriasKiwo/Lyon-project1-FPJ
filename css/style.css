@@ -113,6 +113,10 @@ i, span {
     padding-left: 30px;
     padding-right: 30px;
 }
+.erreur {
+    background: rgb(163, 34, 54);
+
+}
 
 footer {
     background: rgba(105, 82, 70, 1);

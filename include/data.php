@@ -7,3 +7,9 @@ function effectHazard()
     echo "animated " . $effects[rand(0, $compteur)];
 }
 
+$nomErreur [1] = "Le  nom est vide";
+$nomErreur [2] = "Le format du n° tel n'est pas valide";
+$nomErreur [3] = "Le  n° tel est vide";
+$nomErreur [4] = "Le format du email n'est pas valide";
+$nomErreur [5] = "L'email est vide";
+$nomErreur [6] = "Le message est vide";
