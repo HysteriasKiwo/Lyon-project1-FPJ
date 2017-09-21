@@ -1,3 +1,13 @@
+    <?php include('include/data.php');
+
+    $page = "";
+
+    if (isset($_GET['page'])) {
+        $page = $_GET['page'];
+    } else {
+        $page = 'home';
+    }
+    ?>
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -13,16 +23,6 @@
 
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/animate.css">
-    <?php include('include/data.php');
-
-    $page = "";
-
-    if (isset($_GET['page'])) {
-        $page = $_GET['page'];
-    } else {
-        $page = 'home';
-    }
-    ?>
 
 </head>
 
@@ -44,97 +44,46 @@
     </div>
 </div>
 <div class="title <?php if ($page == "home") { effectHazard(); } ?>">
-    Bug Burger
+    <h1>Bug Burger</h1>
 </div>
+
 <div class="wrapper">
-    <!-- Sidebar Holder -->
-    <nav id="sidebar" class="active">
-        <div class="sidebar-header" id="sidebarCollapse">
-            <div class="list-unstyled components">
-                <i class="glyphicon glyphicon-align-justify"></i>
-                <span></span>
-            </div>
-        </div>
-        <ul class="list-unstyled components">
-            <li<?php if ($page == "home") {
-                echo ' class="active"';
-            } ?>>
-                <a href="?page=home">
-                    <i class="glyphicon glyphicon-home"></i>
-                    Home
-                </a>
-            </li>
-            <li<?php if ($page == "carte") {
-                echo ' class="active"';
-            } ?>>
-                <a href="?page=carte">
-                    <i class="glyphicon glyphicon-cutlery"></i>
-                    La Carte
-                </a>
-            </li>
-            <li<?php if ($page == "resto") {
-                echo ' class="active"';
-            } ?>>
-                <a href="?page=resto">
-                    <i class="glyphicon glyphicon-map-marker"></i>
-                    Restaurants
-                </a>
-            </li>
-            <li<?php if ($page == "team") {
-                echo ' class="active"';
-            } ?>>
-                <a href="?page=team">
-                    <i class="mega-octicon octicon-organization"></i>
-                    Team
-                </a>
-            </li>
-            <li<?php if ($page == "contact") {
-                echo ' class="active"';
-            } ?>>
-                <a href="?page=contact">
-                    <i class="glyphicon glyphicon-envelope"></i>
-                    Contact
-                </a>
-            </li>
-            <li<?php if ($page == "FAQ") {
-                echo ' class="active"';
-            } ?>>
-                <a href="?page=FAQ">
-                    <i class="glyphicon glyphicon-question-sign"></i>
-                    FAQ
-                </a>
-            </li>
-        </ul>
-    </nav>
+    <?php include ("include/nav.php"); ?>
     <div class="container body">
         <div class="contenue animated fadeIn">
+
             <?php
 
             switch ($page) {
                 case 'home':
-                    include("home.php");
+                    $linkPage = "home.php";
                     break;
                 case 'carte':
-                    include("carte.php");
+                    $linkPage = "carte.php";
                     break;
                 case 'team':
-                    include("team.php");
+                    $linkPage = "team.php";
                     break;
                 case 'FAQ':
-                    include("FAQ.php");
+                    $linkPage = "FAQ.php";
                     break;
                 case 'contact':
-                    include("contact.php");
+                    $linkPage = "contact.php";
                     break;
                 case 'resto':
-                    include("resto.php");
+                    $linkPage = "resto.php";
                     break;
                 case 'mentions':
-                    include("mentions.php");
+                    $linkPage = "mentions.php";
+                    break;
+                default:
+                    $linkPage = "home.php";
                     break;
             }
+
+            include("pages/$linkPage");
             ?>
-        </div>
+            </div>
     </div>
 
 
@@ -142,7 +91,7 @@
 <div class="container">
     <footer>
         <div class="footer">
-            <?php include "footer.php"; ?>
+            <?php include "include/footer.php"; ?>
 
         </div>
     </footer>

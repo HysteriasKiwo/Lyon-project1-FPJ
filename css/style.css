@@ -18,6 +18,8 @@ body {
     font-family: 'Amatica SC', cursive;
     background: #a5c180;
     color: #cdc5ab;
+    font-size: 1.5em;
+    line-height: 1.7em;
 
 }
 
@@ -26,19 +28,25 @@ body::-webkit-scrollbar {
 }
 
 h1 {
-    font-size: 2.9em;
+    font-size: 20vh;
     Font-Weight: Bold;
 
 }
 
 h2 {
-    font-size: 1.8em;
+    font-size: 5vh;
+    Font-Weight: Bold;
+
+}
+
+h3 {
+    font-size: 4vh;
     Font-Weight: Bold;
     font-family: 'Josefin Sans', sans-serif;
 }
 
-h3 {
-    font-size: 2em;
+h4 {
+    font-size: 5vh;
     Font-Weight: Bold;
 
 }
@@ -46,7 +54,6 @@ h3 {
 form {
     font-family: 'Josefin Sans', sans-serif;
     font-size: 1.5em;
-    font-weight: 300;
     line-height: 1.7em;
     color: #cdc5ab;
 }
@@ -62,7 +69,6 @@ button {
 
 p {
     font-family: 'Josefin Sans', sans-serif;
-    font-weight: 300;
     line-height: 1.7em;
     color: #cdc5ab;
 }
@@ -113,11 +119,44 @@ i, span {
     padding-left: 30px;
     padding-right: 30px;
 }
+
 .erreur {
-    background: rgb(163, 34, 54);
+    width: 80%;
+    background: rgba(163, 34, 54, 0.5);
+    font-size: 1.7em;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    margin-left: 10%;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 10px;
 
 }
 
+.valid {
+    width: 80%;
+    background: rgba(65, 208, 29, 0.85);
+    color: rgb(48, 48, 48);
+    font-size: 1.7em;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    margin-left: 10%;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 10px;
+
+}
+
+.off {
+    display: none;
+}
+
+.link {
+    font-size: 1em;
+
+}
 footer {
     background: rgba(105, 82, 70, 1);
     min-height: 150px;
@@ -125,8 +164,8 @@ footer {
     -moz-border-radius: 10px;
     border-radius: 10px;
     margin: 10px 0 10px 0;
-    padding: 20px 100px 10px 100px;
-    opacity: 0.2;
+    padding: 20px 70px 10px 70px;
+    opacity: 0.1;
     transition: opacity 2s ease-in-out;
     -moz-transition: opacity 2s ease-in-out;
     -webkit-transition: opacity 2s ease-in-out;
@@ -139,16 +178,19 @@ footer:hover {
     -moz-border-radius: 10px;
     border-radius: 10px;
     margin: 10px 0 10px 0;
-    padding: 20px 100px 10px 100px;
+    padding: 20px 70px 10px 70px;
     opacity: 0.95;
     transition: opacity .5s ease-in-out;
     -moz-transition: opacity .5s ease-in-out;
     -webkit-transition: opacity .5s ease-in-out;
 
 }
-a{
-    color: #cdc5ab;;
+
+a {
+    color: #cdc5ab;
+    font-size: 1.7em;
 }
+
 @media (min-width: 640px) {
     .text {
         text-align: justify;
@@ -156,14 +198,11 @@ a{
     }
 
     .lien a, a:hover, a:focus {
-
-        color: #000000;
+        color: #cdc5ab;
         text-decoration: none;
         transition: all 0.3s;
-        font-size: 1.7em;
     }
 }
-
 
 @media (max-width: 640px) {
     .text {
@@ -172,18 +211,18 @@ a{
     }
 
     .lien a, a:hover, a:focus {
-
-        color: #FFFF00;
+        color: #cdc5ab;
         text-decoration: none;
         transition: all 0.3s;
-        font-size: 1.6em;
     }
 }
+
 .middle {
     vertical-align: middle;
-text-align: center;
+    text-align: center;
     margin: auto auto;
 }
+
 .damien {
     width: 350px;
     min-height: 344px;
@@ -192,9 +231,7 @@ text-align: center;
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     border-radius: 10px;
-    border-color: #FFFFFF;
-    border-style: solid;
-    border-width: 5px;
+    border: #FFFFFF solid 5px;
 }
 
 .troll_damien {
@@ -211,9 +248,9 @@ text-align: center;
 
 .troll_damien:hover {
     opacity: 1;
-    transition: opacity 10s ease-in-out;
-    -moz-transition: opacity 10s ease-in-out;
-    -webkit-transition: opacity 10s ease-in-out;
+    transition: opacity 5s ease-in-out;
+    -moz-transition: opacity 5s ease-in-out;
+    -webkit-transition: opacity 5s ease-in-out;
 }
 
 .laurent {
@@ -224,9 +261,7 @@ text-align: center;
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     border-radius: 10px;
-    border-color: #FFFFFF;
-    border-style: solid;
-    border-width: 5px;
+    border: #FFFFFF solid 5px;
 }
 
 .troll_laurent {
@@ -243,9 +278,9 @@ text-align: center;
 
 .troll_laurent:hover {
     opacity: 1;
-    transition: opacity 10s ease-in-out;
-    -moz-transition: opacity 10s ease-in-out;
-    -webkit-transition: opacity 10s ease-in-out;
+    transition: opacity 5s ease-in-out;
+    -moz-transition: opacity 5s ease-in-out;
+    -webkit-transition: opacity 5s ease-in-out;
 }
 
 .julien {
@@ -256,9 +291,7 @@ text-align: center;
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     border-radius: 10px;
-    border-color: #FFFFFF;
-    border-style: solid;
-    border-width: 5px;
+    border: #FFFFFF solid 5px;
 }
 
 .troll_julien {
@@ -275,9 +308,29 @@ text-align: center;
 
 .troll_julien:hover {
     opacity: 1;
-    transition: opacity 10s ease-in-out;
-    -moz-transition: opacity 10s ease-in-out;
-    -webkit-transition: opacity 10s ease-in-out;
+    transition: opacity 5s ease-in-out;
+    -moz-transition: opacity 5s ease-in-out;
+    -webkit-transition: opacity 5s ease-in-out;
+}
+
+.jumbotron {
+    padding-top: 5px;
+    padding-bottom: 20px;
+}
+
+.news{
+    color: #695246;
+}
+
+.newsletter {
+    color: #303030;
+    text-align: center;
+}
+
+.title2 {
+    font-size: 5em;
+    Font-Weight: Bold;
+    text-align: center;
 }
 
 /* --------------------------------------------------------------------------
@@ -335,7 +388,7 @@ CAROUSEL !!!
 }
 
 .item:nth-child(1) {
-    background: url(../img/plat6.jpg) no-repeat center center fixed;
+    background: url(../img/slide6.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -343,7 +396,7 @@ CAROUSEL !!!
 }
 
 .item:nth-child(2) {
-    background: url(../img/plat1.jpg) no-repeat center center fixed;
+    background: url(../img/slide1.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -351,7 +404,7 @@ CAROUSEL !!!
 }
 
 .item:nth-child(3) {
-    background: url(../img/plat2.jpg) no-repeat center center fixed;
+    background: url(../img/slide2.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -359,7 +412,7 @@ CAROUSEL !!!
 }
 
 .item:nth-child(4) {
-    background: url(../img/plat3.jpg) no-repeat center center fixed;
+    background: url(../img/slide3.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -367,7 +420,7 @@ CAROUSEL !!!
 }
 
 .item:nth-child(5) {
-    background: url(../img/plat4.jpg) no-repeat center center fixed;
+    background: url(../img/slide4.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -375,7 +428,7 @@ CAROUSEL !!!
 }
 
 .item:nth-child(6) {
-    background: url(../img/plat5.jpg) no-repeat center center fixed;
+    background: url(../img/slide5.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -411,7 +464,6 @@ CAROUSEL !!!
         font-Weight: Bold;
         margin-top: 20px;
         padding: 10px;
-        font-size: 12em;
         color: #303030;
         text-shadow: 2px 0 0 #FFFFFF, 0 2px 0 #FFFFFF, 0 -2px 0 #FFFFFF, -2px 0 0 #FFFFFF, 2px 2px 0 #FFFFFF, 2px -2px 0 #FFFFFF, -2px 2px 0 #FFFFFF, -2px -2px 0 #FFFFFF;
 
@@ -428,7 +480,6 @@ CAROUSEL !!!
         font-Weight: Bold;
         margin-top: 20px;
         padding: 10px;
-        font-size: 6em;
         color: #303030;
         text-shadow: 2px 0 0 #FFFFFF, 0 2px 0 #FFFFFF, 0 -2px 0 #FFFFFF, -2px 0 0 #FFFFFF, 2px 2px 0 #FFFFFF, 2px -2px 0 #FFFFFF, -2px 2px 0 #FFFFFF, -2px -2px 0 #FFFFFF;
 
@@ -441,7 +492,6 @@ CAROUSEL !!!
         font-Weight: Bold;
         margin-top: 20px;
         padding: 10px;
-        font-size: 12em;
         color: #303030;
         text-shadow: 2px 0 0 #FFFFFF, 0 2px 0 #FFFFFF, 0 -2px 0 #FFFFFF, -2px 0 0 #FFFFFF, 2px 2px 0 #FFFFFF, 2px -2px 0 #FFFFFF, -2px 2px 0 #FFFFFF, -2px -2px 0 #FFFFFF;
 
@@ -455,7 +505,7 @@ CAROUSEL !!!
     #sidebar {
         min-width: 250px;
         max-width: 250px;
-        max-height: 600px;
+        max-height: 700px;
         background: rgba(102, 82, 70, 0.8);
         color: rgba(255, 255, 255, 0.8);
         transition: all 0.3s;

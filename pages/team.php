@@ -1,10 +1,10 @@
-<h1>Notre team</h1>
+<h2>Notre team</h2>
 <hr>
 <div class="row">
 
     <div class="col-md-8">
-        <h1>Bug'Papa</h1>
-        <h2>Un concept, une passion</h2>
+        <h3>Bug'Papa</h3>
+        <h4>Un concept, une passion</h4>
         <p class="text">
             Suite à ces années passées dans de multiples pays d'Asie, Damien revient en France avec la
             ferme intention de faire manger des insectes aux Francais. Après avoir écumé de
@@ -15,7 +15,7 @@
             Burger à Lyon après 2 ans d'efforts acharnés.
         </p>
     </div>
-    <div class="col-md-4">
+    <div class="col-md-4 middle center">
         <div class="damien">
            <div class="troll_damien"></div>
         </div>
@@ -27,14 +27,14 @@
 
 <hr>
 <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-4 middle center">
         <div class="laurent">
             <div class="troll_laurent"></div>
         </div>
     </div>
     <div class="col-md-8">
-        <h1>Cuisinier en Chef</h1>
-        <h2>De la créativité a l'état brut !</h2>
+        <h3>Cuisinier en Chef</h3>
+        <h4>De la créativité a l'état brut !</h4>
         <p class="text">
             "Les insectes, je les évitais, mais depuis que j'ai rencontré Damien, je me suis trouvé une passion pour
             ces petites bêtes", tels sont les mots prononcés par Laurent, notre chef cuisinier qui depuis le tout
@@ -49,9 +49,9 @@
 <div class="row">
 
     <div class="col-md-8">
-        <h1>Enthomocul quoi ?</h1>
+        <h3>Enthomocul quoi ?</h3>
 
-        <h2>Les petites bêtes, c'est lui</h2>
+        <h4>Les petites bêtes, c'est lui</h4>
         <p class="text">
             Depuis toujours, Julien affectionne les insectes, c'est donc tout naturellement qu'il c'est orienté vers
             une Licence de Biologie des Organismes, puis vers un Master 2 Populations Microscopiques et
@@ -62,7 +62,7 @@
             de toutes nos petites bêtes adorées.
         </p>
     </div>
-    <div class="col-md-4">
+    <div class="col-md-4 middle center">
         <div class="julien">
             <div class="troll_julien"></div>
         </div>
