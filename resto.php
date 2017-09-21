@@ -1,115 +1,150 @@
 <h1>Nos restaurants</h1>
+
 <hr/>
+
 <div class="row">
     <div class="col-md-12 col-xs-12">
         <iframe src="https://www.google.com/maps/d/embed?mid=1Gf_NNWZCIkMtUQYRDBuZB31jyU4" width="100%"
                 height="480px" class="animated fadeIn"></iframe>
     </div>
 </div>
-<hr/>
+
+<hr>
+
 <div class="row">
-    <div class="col-md-3 col-xs-3">
-        <img class="media-object img-thumbnail" src="http://via.placeholder.com/250x250" alt="...">
+
+    <div class="col-md-8">
+        <h1>Bug Lyon, the place to be</h1>
+        <h2>17 Rue Delandine</h2>
+
+        <p class="text">Premier BugBurger en France. Au cœur de la ville des grands gastronomes, vous pourrez profiter de votre temps libre pour déguster nos succulents burgers, prendre de la hauteur et un peu d’air frais au sommet des Alpes pour une meilleure digestion.</p>
     </div>
-    <div class="col-md-9 col-xs-9">
-        <h2>Lyon</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim
-            sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius
-            a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non
-            fermentum diam nisl sit amet erat.</p>
+
+    <div class="col-md-4">
+        <img class="media-object img-thumbnail" src="img/lyon.jpg" alt="Le lyon">
     </div>
-</div>
-<hr/>
-<div class="row">
-    <div class="col-md-9 col-xs-9">
-        <h2>La Loupe</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim
-            sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius
-            a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non
-            fermentum diam nisl sit amet erat.</p>
-    </div>
-    <div class="col-md-3 col-xs-3">
-        <img class="media-object img-thumbnail" src="http://via.placeholder.com/250x250" alt="...">
-    </div>
-</div>
-<hr/>
-<div class="row">
-    <div class="col-md-3 col-xs-3"><img class="media-object img-thumbnail" src="http://via.placeholder.com/250x250" alt="...">
-    </div>
-    <div class="col-md-9 col-xs-9">
-        <h2>Orléans</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim
-            sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius
-            a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non
-            fermentum diam nisl sit amet erat.</p>
-    </div>
-</div>
-<hr/>
-<div class="row">
-    <div class="col-md-9 col-xs-9">
-        <h2>Toulouse</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim
-            sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius
-            a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non
-            fermentum diam nisl sit amet erat.</p>
-    </div>
-    <div class="col-md-3 col-xs-3">
-        <img class="media-object img-thumbnail" src="http://via.placeholder.com/250x250" alt="...">
-    </div>
-</div>
-<hr/>
-<div class="row">
-    <div class="col-md-3 col-xs-3">
-        <img class="media-object img-thumbnail" src="http://via.placeholder.com/250x250" alt="...">
-    </div>
-    <div class="col-md-9 col-xs-9">
-        <h2>Strasbourg</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim
-            sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius
-            a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non
-            fermentum diam nisl sit amet erat.</p>
-    </div>
-</div>
-<hr/>
-<div class="row">
-    <div class="col-md-9 col-xs-9">
-        <h2>Bordeaux</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim
-            sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius
-            a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non
-            fermentum diam nisl sit amet erat.</p>
-    </div>
-    <div class="col-md-3 col-xs-3">
-        <img class="media-object img-thumbnail" src="http://via.placeholder.com/250x250" alt="...">
-    </div>
-</div>
-<hr/>
-<div class="row">
-    <div class="col-md-3 col-xs-3">
-        <img class="media-object img-thumbnail" src="http://via.placeholder.com/250x250" alt="...">
-    </div>
-    <div class="col-md-9 col-xs-9">
-        <h2>Lille</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim
-            sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius
-            a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non
-            fermentum diam nisl sit amet erat.</p>
-    </div>
-</div>
-<hr/>
-<div class="row">
-    <div class="col-md-9 col-xs-9">
-        <h2>Paris</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim
-            sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius
-            a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non
-            fermentum diam nisl sit amet erat.</p>
-    </div>
-    <div class="col-md-3 col-xs-3">
-        <img class="media-object img-thumbnail" src="http://via.placeholder.com/250x250" alt="...">
-    </div>
+
 </div>
 
+<hr>
 
+<div class="row">
 
+    <div class="col-md-4">
+        <img class="media-object img-thumbnail" src="img/toulouse.jpg" alt="toulouse">
+    </div>
 
+    <div class="col-md-8">
+        <h1>Bug Toulouse</h1>
+        <h2>1 Place de la Bourse</h2>
+
+        <p class="text">Située dans le midi de la France et proche de l’Espagne, profitez de votre temps libre pour descendre le canal du midi, vous essayer au rugby ou simplement lézarder le long des quais de la Garonne tout en dégustant un délicieux burger préparé avec soin et attention.</p>
+    </div>
+
+</div>
+
+<hr>
+
+<div class="row">
+
+    <div class="col-md-8">
+        <h1>Bug Orléans</h1>
+        <h2>1 Avenue du Champs de Mars</h2>
+
+        <p class="text">Au BugBurger d'Orléans, on vous accueille sur les terres de Léonard de Vinci, profitez de votre temps libre pour déguster des burgers préparés avec fantaisie et créativité.</p>
+    </div>
+
+    <div class="col-md-4">
+        <img class="media-object img-thumbnail" src="img/orleans.jpg" alt="Le BugBurger">
+    </div>
+
+</div>
+
+<hr>
+
+<div class="row">
+
+    <div class="col-md-4">
+        <img class="media-object img-thumbnail" src="img/laloupe.jpg" alt="laloupe">
+    </div>
+
+    <div class="col-md-8">
+        <h1>Bug La Loupe</h1>
+        <h2>18 Rue de la Gare</h2>
+
+        <p class="text">Située à deux pas de la gare, au cœur de la région naturelle du Perche, loin des distractions de la ville, vous pourrez profiter de votre temps libre pour découvrir les sentiers secrets du parc national du Perche ou boire un petit verre de cidre avec quelques sauterelles grillées.</p>
+    </div>
+
+</div>
+
+<hr>
+
+<div class="row">
+
+    <div class="col-md-8">
+        <h1>Bug Lille</h1>
+        <h2>4 Avenue des Saules</h2>
+
+        <p class="text">A deux pas de Londres, de Bruxelles et de Paris, ici on mange de tout, on apprécie la diversité et la mixité. Goûtez nos splendides tacos aux sauterelles et n'hésitez pas à prendre un de nos si fabuleux Grass'Kookies,</p>
+
+    </div>
+
+    <div class="col-md-4">
+        <img class="media-object img-thumbnail" src="img/lille.jpg" alt="lille">
+    </div>
+
+</div>
+
+<hr>
+
+<div class="row">
+
+    <div class="col-md-4">
+        <img class="media-object img-thumbnail" src="img/strasbourg.jpg" alt="strasbourg">
+    </div>
+
+    <div class="col-md-8">
+        <h1>Bug Strasbourg</h1>
+        <h2>1 Rue des Corps-De-Garde</h2>
+
+        <p class="text">Au coeur de l'Alsace, à deux pas de l’Allemagne. Installé dans un Winstub local profitez des repas et des décors traditionnels.</p>
+    </div>
+
+</div>
+
+<hr>
+
+<div class="row">
+
+    <div class="col-md-8">
+        <h1>Bug Paris</h1>
+        <h2>11 Rue de Poissy</h2>
+
+        <p class="text">Installé dans la grande capitale, nous vous invitons à casser les codes et venir savourer nos produits de qualité. Un petit verre de vin, quelques larves grillées, vos papilles n'en reviendront pas.</p>
+
+    </div>
+
+    <div class="col-md-4">
+        <img class="media-object img-thumbnail" src="img/paris.jpg" alt="paris">
+    </div>
+
+</div>
+
+<hr>
+
+<div class="row">
+
+    <div class="col-md-4">
+        <img class="media-object img-thumbnail" src="img/bordeaux.jpg" alt="bordeaux">
+    </div>
+
+    <div class="col-md-8">
+        <h1>Bug Bordeaux</h1>
+        <h2>15 Place Canteloup</h2>
+
+        <p class="text">Au bord de l’Atlantique et aux portes de l’Aquitaine, vous pourrez venir savourer nos burgers à bicyclette (recommandé!) au sein d’une enseigne renommée qu'est la nôtre et profiter de votre temps libre pour apprendre à surfer ou affiner votre connaissance des vins bordelais.</p>
+    </div>
+
+</div>
+
+<hr>
